@@ -1,5 +1,5 @@
 # Blockchain and Education
-# Federico Ferrero & James Harrington
+# Ferrero & Harrington
 
 # clear your memory
 rm(list=ls())
